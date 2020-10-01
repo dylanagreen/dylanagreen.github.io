@@ -14,7 +14,6 @@ nav {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-  display: inline-block;
   float: right;
 }
 
@@ -37,8 +36,10 @@ nav ul a:focus {
 
 /* Sets the global features of the navbar, i.e. like fonts and positioning. */
 .navbar {
-  font-family: "Noto Serif", "Times New Roman", serif;
-  width: 925px;
+  font-family: "Noto Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  width: 950px;
   margin: 0 auto;
   border-style: none none double none;
 }
@@ -53,32 +54,21 @@ nav ul a:focus {
 /* Styling for the inner content of pages below. */
 .inner {
   font-family: "Noto Sans", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 400;
   margin: 0 auto;
-  width: 925px;
+  width: 950px;
   text-align: justify;
-  /* font-size: 13px; */
+  resize: both;
 }
 
 .inner p {
+  font-family: "Noto Sans", "Arial", sans-serif;
+  margin: 0 auto;
   padding: 5px;
 }
 
-/* Floating for left and right side images */
-.leftimg {
-  float: left;
-  padding: 10px 15px 0 0;
-  max-width: 50%;
-  height: auto;
-}
-
-.rightimg {
-  float: right;
-  padding: 10px 0 0 15px;
-  max-width: 45%;
-  height: auto;
-}
-
-/* Link styling to keep them black so they don't turn purple after people visit them. */
+/* Link styling to keep them black/grey so they don't turn purple after people visit them. */
 p a:link{
   color: #000000;
 }
