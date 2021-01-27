@@ -30,7 +30,7 @@ nav ul a {
 nav ul a:hover,
 nav ul a:focus {
   text-decoration: none;
-  color: #5e5e5e;
+  color: #990011;
   /* background-color: #eee; */
 }
 
@@ -68,13 +68,25 @@ nav ul a:focus {
   padding: 5px;
 }
 
-/* Link styling to keep them black/grey so they don't turn purple after people visit them. */
-p a:link{
-  color: #000000;
+/* Coloring the double line on the research page */
+.inner h2 {
+  border-style: none none double none;
+  border-bottom-color: #990011;
 }
 
-p a:visited{
-  color: #5e5e5e;
+/* Styling for the caption text on the images. */
+.caption p {
+  border-style: solid;
+  border-color: #4C96B3;
+}
+
+/* Link styling to make them grey/yellow so they don't turn purple after people visit them. */
+p a:link {
+  color: #939597;
+}
+
+p a:visited {
+  color: #F5DF4D;
 }
 
 #orcid {
