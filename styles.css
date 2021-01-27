@@ -89,6 +89,15 @@ p a:visited {
   color: #F5DF4D;
 }
 
+/* Styling the links when they're also in a list */
+li a:link {
+  color: #939597;
+}
+
+li a:visited {
+  color: #F5DF4D;
+}
+
 #orcid {
   line-height: 0px;
   padding: 0px;
