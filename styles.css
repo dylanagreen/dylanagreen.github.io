@@ -17,11 +17,16 @@ nav {
   float: right;
 }
 
+
+nav ul {
+  line-height: 1em;
+}
+
 /* Text that is a link in the nav bar */
 nav ul a {
   position: relative;
   display: inline-block;
-  padding: 8px 3px;
+  padding: 0px 3px;
   font-size: 20px;
   color: #000000;
 }
