@@ -92,7 +92,8 @@ the value of $K_2$ (in this syntax) is completely irrelevant.
 The key to Pollard's p-1 algorithm is the method by which it searches this space using Equation \eqref{little}.
 If you can make the exponent a large enough number with enough prime factors, you should
 (hopefully) be able to find $p$. Wikipedia outlines an algorithm, but for this challenge
-I found a slightly modified version to run quicker and more successfully.
+I found [a slightly modified version](https://www.untruth.org/~josh/math/pollard-p-1.pdf)
+to run quicker and more successfully.
 
 ## Code
 
@@ -150,7 +151,9 @@ decrypt = hex(mess)
 print(binascii.unhexlify(decrypt[2:]))
 ```
 
-> b'picoCTF{148cbc0f}'
+> b'picoCTF{...}'
+Since the challenge is still solvable, I have redacted the actual flag, although
+the principles in this blog post can help you solve it.
 
 Quite a fun little challenge!
 
