@@ -7,4 +7,5 @@ things that I want to write about and think could be informative.
 
 ____
 
+* [April 24, 2022](/blog/04-24-22-sum-o-primes) - picoCTF2022 Retrospective: Sum o' Primes
 * [April 23, 2022](/blog/04-23-22-very-smooth) - picoCTF2022 Retrospective: Very Smooth
