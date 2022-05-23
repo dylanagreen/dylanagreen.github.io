@@ -20,8 +20,8 @@ end
 
 # output
 
-genplain("script1.jl")
+genplain("log_solve.jl")
 
 # plots
 
-include("script2.jl")
+# include("script2.jl")
