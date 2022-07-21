@@ -23,7 +23,7 @@ Additionally I wrote and maintain the [desipoint website](https://dylanagreen.gi
  pointing of the telescope as well as a variety of other useful parameters.
 
 As part of my work in the DESC I participated in the [tomographic binning challenge](https://github.com/LSSTDESC/tomo_challenge)
-which produced a paper that was published in the Open Journal of Astrophysics.
+which produced a paper that was published in the Open Journal of Astrophysics (see below).
 My submission designed an entirely unique clustering algorithm and is outlined
 in a jupyter notebook in my fork of the tomographic challenge repo.
 I am currently considering rewriting the clustering parts of the notebook into a
@@ -35,8 +35,10 @@ so that it can better identify quasars using DESI spectroscopic data.
 As part of this work I wrote the entirely numpy-based implementation of QuasarNet,
 [QuasarNP](https://github.com/desihub/QuasarNP), which gets run as part of the
 spectroscopic reduction pipeline for the DESI Survey.
-I am currently working on changing the QuasarNet architecture to reduce
-overfitting and to potentially include photo-band flux data.
+QuasarNET is currently in a stage of active learning based improvement, with the
+intention of its improved results being included in DESI's first public data release
+in late 2022/early 2023. This work is currently planned to produce a paper on a
+similar timeline.
 
 I have 5 days of in person observation experience at the Mayall 4-meter telescope, where I did work commissioning the DESI spectrographs. I have since completed an additional 8 days of remote observing on the Mayall 4-meter. I also have observing experience at Lick Observatory as part of the 2020/21 Burbidge Observational Astronomy Workshop.
 
