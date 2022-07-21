@@ -46,5 +46,6 @@ I have 5 days of in person observation experience at the Mayall 4-meter telescop
 2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. (2021). The LSST-DESC 3x2pt Tomography Optimization Challenge. Open J. Astrophys., 4, 13418. [doi:10.21105/astro.2108.13418](https://doi.org/10.21105/astro.2108.13418)
 
 ## Presentations
-
-1. **Green, D.** (2021, April 15). Automated classification of quasar targets in DESI. DESI Research Forum, Online.
+1. **Green, D.** (2021, February 26). [Deep Learning for Cosmic Ray Identification](/assets/presentations/02_26_21_deepCR_spectro.pdf) desi-data Telecon, Online.
+2. **Green, D.** (2021, April 15). [Automated Classification of Quasar Targets in DESI.](/assets/presentations/04_15_21_qnp_research_forum.pdf) DESI Research Forum, Online.
+3. **Green, D.** (2022, June 24). [The Future of QuasarNP](/assets/presentations/06_24_22_future_of_qnp.pdf) DESI Collaboration Meeting June 2022, Online
