@@ -2,9 +2,9 @@
 <!-- @def tags = ["syntax", "code"] -->
 
 ~~~
-<img style="width: 50%; float: left; padding: 0 10px 0 0;" src="/assets/self.jpg">
+<img style="width: 50%; float: left; padding: 0 20px 0 0;" src="/assets/self.jpg">
 ~~~
- My name is Dylan Green and I am a third year graduate student at the University
+ My name is Dylan Green and I am a fourth year graduate student at the University
  of California, Irvine where I work with Professor David Kirkby studying
  observational cosmology. This is my personal website, where you can find
  information on my research experience, my publications, and my CV. There is

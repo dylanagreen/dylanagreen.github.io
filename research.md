@@ -34,18 +34,22 @@ My current work focuses on improving the Convolutional Neural Network (CNN) Quas
 so that it can better identify quasars using DESI spectroscopic data.
 As part of this work I wrote the entirely numpy-based implementation of QuasarNet,
 [QuasarNP](https://github.com/desihub/QuasarNP), which gets run as part of the
-spectroscopic reduction pipeline for the DESI Survey.
-QuasarNET is currently in a stage of active learning based improvement, with the
-intention of its improved results being included in DESI's first public data release
-in late 2022/early 2023. This work is currently planned to produce a paper on a
+spectroscopic reduction pipeline for the DESI Survey. Recently we have
+implemented an active learning pipeline that uses visual inspection to label
+spectra which QuasarNET finds most useful to have labeled. This work has
+produced a nearly 5% improvement in purity compared to the prior weights file.
+These results are intended to be included in DESI's first public data release
+in late 2023. This work is currently planned to produce a paper on a
 similar timeline.
 
-I have 5 days of in person observation experience at the Mayall 4-meter telescope, where I did work commissioning the DESI spectrographs. I have since completed an additional 8 days of remote observing on the Mayall 4-meter. I also have observing experience at Lick Observatory as part of the 2020/21 Burbidge Observational Astronomy Workshop.
+I have 5 days of in person observation experience at the Mayall 4-meter telescope, where I did work commissioning the DESI spectrographs. I have since completed an additional 16 days of remote observing on the Mayall 4-meter. I also have observing experience at Lick Observatory as part of the 2020/21 Burbidge Observational Astronomy Workshop.
 
 ## Publications
 [Orcid](https://orcid.org/0000-0002-0676-3661)
-1. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. (2019). Causality and dispersion relations. American Journal of Physics, 87(4), 279‐290. [doi:10.1119/1.5092679](https://doi.org/10.1119/1.5092679)
-2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. (2021). The LSST-DESC 3x2pt Tomography Optimization Challenge. Open J. Astrophys., 4, 13418. [doi:10.21105/astro.2108.13418](https://doi.org/10.21105/astro.2108.13418)
+1. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. ‘Causality and dispersion relations’. *American Journal of Physics* 87, no. 4 (April 2019): 279–90. [doi:10.1119/1.5092679.](https://doi.org/10.1119/1.5092679)
+2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. *The Open Journal of Astrophysics* 4, no. 1 (October 2021): 13. [doi:10.21105/astro.2108.13418.](https://doi.org/10.21105/astro.2108.13418)
+3. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. *The Astronomical Journal* 164, no. 5 (November 2022): 207. [doi:10.3847/1538-3881/ac882b.](https://doi.org/10.3847/1538-3881/ac882b)
+4. Guy, J., Bailey, S., ... **Green, D.** ..., Zou, H. ‘The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument’. *The Astronomical Journal*  165, no. 4 (April 2023): 144. [doi:10.3847/1538-3881/acb212.](https://doi.org/10.3847/1538-3881/acb212)
 
 ## Presentations
 1. **Green, D.** (2021, February 26). [Deep Learning for Cosmic Ray Identification](/assets/presentations/02_26_21_deepCR_spectro.pdf) desi-data Telecon, Online.
