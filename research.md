@@ -64,12 +64,12 @@ I have 5 days of in person observation experience at the Mayall 4-meter telescop
 
 First author publications are denoted by ~~~<span style="color:red">red</span>~~~
 1. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. ‘Causality and dispersion relations’. *American Journal of Physics* 87, no. 4 (April 2019): 279–90. [doi:10.1119/1.5092679.](https://doi.org/10.1119/1.5092679)
-2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. *The Open Journal of Astrophysics* 4, no. 1 (October 2021): 13. [doi:10.21105/astro.2108.13418.](https://doi.org/10.21105/astro.2108.13418)
-3. Pat, F., Juneau, S., Böhm, V., ... **Green, D.**, Myers, A. (2022) Reconstructing and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algorithms. [arXiv: 2211.11783](https://arxiv.org/abs/2211.11783)
-4. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. *The Astronomical Journal* 164, no. 5 (November 2022): 207. [doi:10.3847/1538-3881/ac882b.](https://doi.org/10.3847/1538-3881/ac882b)
-5. Guy, J., Bailey, S., ... **Green, D.** ..., Zou, H. ‘The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument’. *The Astronomical Journal*  165, no. 4 (April 2023): 144. [doi:10.3847/1538-3881/acb212.](https://doi.org/10.3847/1538-3881/acb212)
-6. DESI Collaboration incl. **Green, D.** (2023). The Early Data Release of the Dark Energy Spectroscopic Instrument. [arXiv: 2306.06308](https://arxiv.org/abs/2306.06308)
-7. DESI Collaboration incl. **Green, D.** (2024). Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument. [The Astronomical Journal, 167, 62](https://dx.doi.org/10.3847/1538-3881/ad0b08)
+2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. (October 2021) [*The Open Journal of Astrophysics 4, 13.*](https://doi.org/10.21105/astro.2108.13418)
+3. Pat, F., Juneau, S., Böhm, V., ... **Green, D.**, Myers, A. 'Reconstructing and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algorithms.' (2022) [arXiv: 2211.11783](https://arxiv.org/abs/2211.11783)
+4. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. (November 2022) [*The Astronomical Journal 164, 207.*](https://doi.org/10.3847/1538-3881/ac882b)
+5. Guy, J., Bailey, S., ... **Green, D.** ..., Zou, H. ‘The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument’. (April 2023) [*The Astronomical Journal  165, 144.*](https://doi.org/10.3847/1538-3881/acb212)
+6. DESI Collaboration incl. **Green, D.** 'The Early Data Release of the Dark Energy Spectroscopic Instrument.' (2023) [arXiv: 2306.06308](https://arxiv.org/abs/2306.06308)
+7. DESI Collaboration incl. **Green, D.** 'Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument.' (January 2024). [*The Astronomical Journal, 167, 62*](https://dx.doi.org/10.3847/1538-3881/ad0b08)
 8. **~~~<span style="color:red">Green, D.</span>~~~ ** & Bailey, S. (2024). Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values. [IEEE Transactions on Signal Processing](https://doi.org/10.1109/TSP.2024.3474530)
 9. **~~~<span style="color:red">Green, D.</span>~~~ ** & Kirkby, D. (2024). Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline. *In Prep.*
 
