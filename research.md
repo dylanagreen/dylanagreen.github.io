@@ -53,7 +53,7 @@ there I derived a variant of NMF we named [Nearly-NMF](https://doi.org/10.1109/T
 to standard NMF in a way that correctly handles the presence of *some* negative
 data, compared to "standard" NMF which requires all input data to be factorized
 to be strictly non-negative. A paper outlining this method was published in
-Late 2024. Further work outside the SCGSR program has continued to
+late 2024. Further work outside the SCGSR program has continued to
 apply the Nearly-NMF algorithm to real DESI data for possible inclusion
 in the data processing pipeline.
 
@@ -63,18 +63,18 @@ I have 5 days of in person observation experience at the Mayall 4-meter telescop
 [Orcid](https://orcid.org/0000-0002-0676-3661)
 
 First author publications are denoted by ~~~<span style="color:red">red</span>~~~
-1. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. ‘Causality and dispersion relations’. *American Journal of Physics* 87, no. 4 (April 2019): 279–90. [doi:10.1119/1.5092679.](https://doi.org/10.1119/1.5092679)
-2. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. (October 2021) [*The Open Journal of Astrophysics 4, 13.*](https://doi.org/10.21105/astro.2108.13418)
-3. Pat, F., Juneau, S., Böhm, V., ... **Green, D.**, Myers, A. 'Reconstructing and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algorithms.' (2022) [arXiv: 2211.11783](https://arxiv.org/abs/2211.11783)
-4. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. (November 2022) [*The Astronomical Journal 164, 207.*](https://doi.org/10.3847/1538-3881/ac882b)
+1. **~~~<span style="color:red">Green, D.</span>~~~ ** & Kirkby, D. (2024). Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline. *In Prep.*
+2. **~~~<span style="color:red">Green, D.</span>~~~ ** & Bailey, S. (2024). Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values. [IEEE Transactions on Signal Processing](https://doi.org/10.1109/TSP.2024.3474530)
+3. DESI Collaboration incl. **Green, D.** 'Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument.' (January 2024). [*The Astronomical Journal, 167, 62*](https://dx.doi.org/10.3847/1538-3881/ad0b08)
+4. DESI Collaboration incl. **Green, D.** 'The Early Data Release of the Dark Energy Spectroscopic Instrument.' (2023) [arXiv: 2306.06308](https://arxiv.org/abs/2306.06308)
 5. Guy, J., Bailey, S., ... **Green, D.** ..., Zou, H. ‘The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument’. (April 2023) [*The Astronomical Journal  165, 144.*](https://doi.org/10.3847/1538-3881/acb212)
-6. DESI Collaboration incl. **Green, D.** 'The Early Data Release of the Dark Energy Spectroscopic Instrument.' (2023) [arXiv: 2306.06308](https://arxiv.org/abs/2306.06308)
-7. DESI Collaboration incl. **Green, D.** 'Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument.' (January 2024). [*The Astronomical Journal, 167, 62*](https://dx.doi.org/10.3847/1538-3881/ad0b08)
-8. **~~~<span style="color:red">Green, D.</span>~~~ ** & Bailey, S. (2024). Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values. [IEEE Transactions on Signal Processing](https://doi.org/10.1109/TSP.2024.3474530)
-9. **~~~<span style="color:red">Green, D.</span>~~~ ** & Kirkby, D. (2024). Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline. *In Prep.*
+6. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. (November 2022) [*The Astronomical Journal 164, 207.*](https://doi.org/10.3847/1538-3881/ac882b)
+7. Pat, F., Juneau, S., Böhm, V., ... **Green, D.**, Myers, A. 'Reconstructing and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algorithms.' (2022) [arXiv: 2211.11783](https://arxiv.org/abs/2211.11783)
+8. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. (October 2021) [*The Open Journal of Astrophysics 4, 13.*](https://doi.org/10.21105/astro.2108.13418)
+9. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. ‘Causality and dispersion relations’. *American Journal of Physics* 87, no. 4 (April 2019): 279–90. [doi:10.1119/1.5092679.](https://doi.org/10.1119/1.5092679)
 
 
 ## Presentations
-1. **Green, D.** (2021, February 26). [Deep Learning for Cosmic Ray Identification](/assets/presentations/02_26_21_deepCR_spectro.pdf) desi-data Telecon, Online.
+1. **Green, D.** (2022, June 24). [The Future of QuasarNP](/assets/presentations/06_24_22_future_of_qnp.pdf) DESI Collaboration Meeting June 2022, Online
 2. **Green, D.** (2021, April 15). [Automated Classification of Quasar Targets in DESI.](/assets/presentations/04_15_21_qnp_research_forum.pdf) DESI Research Forum, Online.
-3. **Green, D.** (2022, June 24). [The Future of QuasarNP](/assets/presentations/06_24_22_future_of_qnp.pdf) DESI Collaboration Meeting June 2022, Online
+3. **Green, D.** (2021, February 26). [Deep Learning for Cosmic Ray Identification](/assets/presentations/02_26_21_deepCR_spectro.pdf) desi-data Telecon, Online.
