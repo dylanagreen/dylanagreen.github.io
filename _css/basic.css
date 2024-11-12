@@ -80,9 +80,9 @@ header li a:hover {
 }
 
 /* wide display: enforce maximum width of header to match content */
-@media (min-width: 940px) {
+@media (min-width: 1040px) {
   header {
-    width: 705px;
+    width: 875px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -91,7 +91,7 @@ header li a:hover {
 /*
 medium display: nav goes under name
 */
-@media (max-width: 760px) {
+@media (max-width: 960px) {
   header { display: block; }
 
   header .blog-name {
