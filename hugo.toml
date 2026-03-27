@@ -1,0 +1,4 @@
+theme = 'hextra'
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Dylan Green'
