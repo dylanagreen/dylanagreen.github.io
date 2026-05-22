@@ -26,8 +26,8 @@ params:
   theme:
     default: light
     displayToggle: true
-
-# params:
+  page:
+    width: full
   math:
     engine: mathjax
 
