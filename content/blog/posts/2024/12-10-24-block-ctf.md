@@ -125,7 +125,7 @@ that I will outline below.
 
 To decrypt a message in base RSA we calculate
 
-$$ m = c^d ~\text{mod}~ n $$.
+$$ m = c^d ~\text{mod}~ n $$
 
 The CRT allows us to compute the value mod $n$ by instead computing the
 decryptions in the subgroups mod $p$ and mod $q$. The math to do this

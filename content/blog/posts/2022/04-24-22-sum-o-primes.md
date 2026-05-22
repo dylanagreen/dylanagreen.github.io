@@ -51,7 +51,7 @@ Substitute the second into the first and solve for $q$:
 
 $$ x = n/q + q $$
 $$ q^2 - xq + n = 0 $$
-$$ q = \frac{x \pm \sqrt{x^2 - 4n}}{2} \label{sqrt}$$
+$$ q = \frac{x \pm \sqrt{x^2 - 4n}}{2} \tag{1}\label{sqrt}$$
 
 I won't prove it here, but one of the two factors will correspond to the "plus"
 and one to the "minus" in the equation above. You can prove it for yourself by
@@ -82,7 +82,7 @@ You might recognize the last few lines as being the same as in Very Smooth, whic
 is intentional at least on the part of the picoCTF organizers. Most of the challenge
 in this one was simply finding a way to take an integer square root in Python.
 Since $p$ and $q$ are both known to be integers, the square root in Equation
-\eqref{sqrt} must necessarily
+$\eqref{sqrt}$ must necessarily
 produce an integer as well. However, raw python tries to take square roots on floats,
 and the number inside the root is much too large and will overflow. You could do
 something tricky, like I will in the upcoming Sequences post, but since gmpy can

@@ -56,7 +56,7 @@ strokes to be satisfying.
 
 Pollar's algorithm is based on Fermat's little theorem, which says
 
-$$ a^{K * (p-1)} \equiv 1 \text{(mod p)} , \label{little}$$
+$$ a^{K * (p-1)} \equiv 1 \text{(mod p)} , \tag{1}\label{little}$$
 
 where $a$ is an integer *coprime* to $p$, $K$ is a random integer, and $p$ is a prime.
 Coprime means that $a$ and $p$ are do not share any common factors except 1. You
@@ -74,11 +74,11 @@ $$ K_1 p \equiv 0 \text{(mod p)} ,$$
 
 from which it follows that if
 
-$$ x \equiv 1 \text{(mod p)} \label{x-1}$$
+$$ x \equiv 1 \text{(mod p)} \tag{2}\label{x-1}$$
 
 then
 
-$$ x - 1 \equiv K_2 p . \label{xequiv}$$
+$$ x - 1 \equiv K_2 p . \tag{3}\label{xequiv}$$
 Be sure to note that Equation \eqref{xequiv} is not in modulo arithmetic, and $K_2$
 is an arbitrary integer.
 

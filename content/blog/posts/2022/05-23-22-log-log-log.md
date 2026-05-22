@@ -107,7 +107,7 @@ $$ x^{p-1} = 1 \text{(mod p)} $$
 
 What if we instead, however, raise $x$ to the $(p-1)/2$ power?
 
-$$ x^{(p-1)/2} = g^{e(p-1)/2} =  ? \text{(mod p)} \label{x_pow}$$
+$$ x^{(p-1)/2} = g^{e(p-1)/2} =  ? \text{(mod p)} \tag{1}\label{x_pow}$$
 
 If we rewrite $e = b_{n-1} 2^{n-1} + b_{n-2} 2^{n-2} + ... + b_{1} 2^1 + b_0 = e^\prime + b_0$
 where $b_i$ is the $i$th bit of $e$ then we can rewrite Equation \eqref{x_pow} as
@@ -148,7 +148,7 @@ to the $(p-1)/4$ power to recover bit 1, and you would be correct:
 
 $$ g^{(e_1^\prime + b_1 2^1)(p-1)/4} =g^{e_1^\prime(p-1)/4}g^{b_1(p-1)/2} = g^{b_1(p-1) / 2} \text{(mod p)} $$
 
-$$ g^{b_1(p-1) / 2} = \begin{cases} 1 &\text{ if } b_1 = 0 \text{(mod p)} \\  p-1 &\text{ if } b_1 = 1 \text{(mod p)} \end{cases} \label{b_1}$$
+$$ g^{b_1(p-1) / 2} = \begin{cases} 1 &\text{ if } b_1 = 0 \text{(mod p)} \\  p-1 &\text{ if } b_1 = 1 \text{(mod p)} \end{cases} \tag{2}\label{b_1}$$
 
 where we defiend $e_1^\prime$ similarly as before:
 $e_1 = b_{n-1} 2^{n-1} + b_{n-2} 2^{n-2} + ... + b_{1} 2^1 = e_1^\prime + b_{1} 2^1$
@@ -166,9 +166,9 @@ and therefore cannot be used in the exponent of $g^e$.[^2]
 Our very last step is to generalize this to the $i$th bit of $e$ for $i < 1024$.
 This is left as an exercise for the reader, but I quote the result here:
 
-$$ g^{e_i(p-1) / 2^i} = \begin{cases} 1 &\text{ if } b_i = 0 \text{(mod p)} \\  p-1 &\text{ if } b_i = 1 \text{(mod p)} \end{cases} \label{gen_1}$$
+$$ g^{e_i(p-1) / 2^i} = \begin{cases} 1 &\text{ if } b_i = 0 \text{(mod p)} \\  p-1 &\text{ if } b_i = 1 \text{(mod p)} \end{cases} \tag{3}\label{gen_1}$$
 
-$$ e_i = e - \sum_{j=0}^i b_j 2^{j} \label{gen_2}$$
+$$ e_i = e - \sum_{j=0}^i b_j 2^{j} \tag{4}\label{gen_2}$$
 
 [^1]: If you know what this means you probably nodded your head. If you don't, just take it as true or look up the details elsewhere since explaining this would expand the scope of this writeup 10 fold.
 [^2]: If this confuses you, remember that GF(p) is defined as integers modulo $p$, and if $(p-1)$ is not divisible by 4 then $(p-1)/4$ is not an integer.
