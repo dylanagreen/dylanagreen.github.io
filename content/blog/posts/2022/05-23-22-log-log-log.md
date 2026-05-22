@@ -178,8 +178,6 @@ I wrote my original implementation of Equations \eqref{gen_1} and \eqref{gen_2} 
 adequately. After confirming the method worked I actually went back and rewrote it
 in Julia, which runs in ~1-2s compared to the nearly 10 of the python implentation.
 
-\input{julia}{/_assets/scripts/log_solve.jl}
+{{< code file="/assets/ctf/angstrom_ctf_2022/log_solve.md" >}}
 
 And when you run the code the flag pops right out, how easy is that?
-
-\output{/_assets/scripts/log_solve.jl}

@@ -53,7 +53,7 @@ matching the encryptions to the encrypted string. Doing this requires
 $63 \times 5$ queries to the server of various starting char (63) + end char type (5) combinations.
 We only need 63 starting chars since no group will ever start with `}`.
 
-\textinput{/_assets/ctf_scripts/block_ctf_2024/sizer.md}
+{{< code file="/assets/ctf/block_ctf_2024/sizer.md" >}}
 
 
 [^1]: After the conclusion of the CTF I realized that the encryption was an addition and a multiplication combined, and we could have done this with a significantly fewer amount of queries.
@@ -104,8 +104,7 @@ if you generate your ECDH private key as a string of null bytes, such that $a = 
 then the shared secret $a * b * G = 0$. Knowing this and the returned IV and ciphertext
 you can decrypt the flag.
 
-\textinput{/_assets/ctf_scripts/block_ctf_2024/key.md}
-
+{{< code file="/assets/ctf/block_ctf_2024/key.md" >}}
 
 [^2]: This key exchange/curve combination is typically referred to as x25519.
 
@@ -172,7 +171,7 @@ This value is proportional to $q$! It should be clear then that $GCD(m_A - m_B, 
 with $p$ following from $p = N / q$. Knowing $p$ and $q$ we can easily reconstruct
 $d$ and perform the decryption ourself!
 
-\textinput{/_assets/ctf_scripts/block_ctf_2024/faulty.md}
+{{< code file="/assets/ctf/block_ctf_2024/faulty.md" >}}
 
 [^3]: Assuming that $m_A > m_B$, simply swap the two if it is not.
 
