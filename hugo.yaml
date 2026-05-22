@@ -1,0 +1,45 @@
+baseURL: 'https://example.org/'
+locale: 'en-us'
+title: 'Dylan Green'
+
+theme: 'hextra'
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/dylanagreen"
+      params:
+        icon: github
+
+params:
+  theme:
+    default: light
+    displayToggle: true
+  # math: true
+
+# markup:
+#   goldmark:
+#     extensions:
+#       passthrough:
+#         delimiters:
+#           block:
+#           - - '\['
+#             - '\]'
+#           - - $$
+#             - $$
+#           inline:
+#           - - '\('
+#             - '\)'
+#         enable: true
+
