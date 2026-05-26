@@ -54,3 +54,6 @@ markup:
             - '\)'
         enable: true
 
+caches:
+  images:
+    dir: :cacheDir/images
