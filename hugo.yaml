@@ -9,9 +9,12 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 1
+    - name: Research
+      pageRef: /research
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 3
     - name: Search
       weight: 4
       params:

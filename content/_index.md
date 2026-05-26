@@ -4,15 +4,12 @@ draft = false
 title = ''
 +++
 
-
 {{< figure
   src="/images/self.jpg"
   alt="A photograph of me"
   caption="Dylan Green, circa 2022."
-  width="60%"
+  class="lefty"
 >}}
-
-
 My name is Dylan Green.
 
 I am currently a postdoctoral researcher at Lawrence Berkeley National Laboratory.
