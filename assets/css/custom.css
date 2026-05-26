@@ -1,0 +1,25 @@
+img[src$='#floatleft'] {
+  float: left;
+  margin-right: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 50%; /* Adjust to suit your content size */
+}
+
+img[src$='#floatright'] {
+  float: right;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 50%;
+}
+
+.lefty {
+  float: left;
+  margin-right: 0.75rem;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  max-width: 50%;
+}
+
+.first_author {
+    color: #c97c2e;
+}
