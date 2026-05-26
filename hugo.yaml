@@ -1,0 +1,59 @@
+baseURL: 'https://example.org/'
+locale: 'en-us'
+title: 'Dylan Green'
+
+theme: 'hextra'
+
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: Research
+      pageRef: /research
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/dylanagreen"
+      params:
+        icon: github
+    - name: ORCiD
+      weight: 6
+      url: "https://orcid.org/0000-0002-0676-3661"
+      params:
+        icon: orcid_green
+    - name: Search
+      weight: 100
+      params:
+        type: search
+
+params:
+  theme:
+    default: light
+    displayToggle: true
+  page:
+    width: full
+  math:
+    engine: mathjax
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - '\['
+            - '\]'
+          - - $$
+            - $$
+          inline:
+          - - '\('
+            - '\)'
+        enable: true
+
+caches:
+  images:
+    dir: :cacheDir/images
