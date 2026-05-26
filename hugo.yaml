@@ -15,15 +15,20 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
     - name: GitHub
       weight: 5
       url: "https://github.com/dylanagreen"
       params:
         icon: github
+    - name: ORCiD
+      weight: 6
+      url: "https://orcid.org/0000-0002-0676-3661"
+      params:
+        icon: orcid_green
+    - name: Search
+      weight: 100
+      params:
+        type: search
 
 params:
   theme:

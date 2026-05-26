@@ -61,8 +61,6 @@ in the data processing pipeline.
 I have 5 days of in person observation experience at the Mayall 4-meter telescope, where I did work commissioning the DESI spectrographs. I have since completed an additional 20 days of remote observing on the Mayall 4-meter. I also have observing experience at Lick Observatory as part of the 2020/21 Burbidge Observational Astronomy Workshop.
 
 ## Publications
-[Orcid](https://orcid.org/0000-0002-0676-3661)
-
 1. **Green, D.** & Kirkby, D. (2024). Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline. *In Prep.*
 2. **Green, D.** & Bailey, S. (2024). Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values. [IEEE Transactions on Signal Processing](https://doi.org/10.1109/TSP.2024.3474530)
 3. DESI Collaboration incl. **Green, D.** 'Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument.' (January 2024). [*The Astronomical Journal, 167, 62*](https://dx.doi.org/10.3847/1538-3881/ad0b08)
