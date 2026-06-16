@@ -4,33 +4,32 @@ draft = false
 title = 'About Me'
 +++
 
-My name is Dylan Green, and I am currently an Astrophysics graduate student at
-the University of California, Irvine. You can email me at dylanag [at] uci [dot] edu.
-This page will be mostly about my hobbies and extracurricular activities.
-For details on my research check the research tab.
+My name is Dylan Green, and I am an Postdoctoral Researcher at
+the Lawrence Berkeley National Laboratory. You can email me at dylangreen [at] lbl [dot] gov.
+This is my personal and professional site, but to nobody's surprise I am
+more than just a physicist. Let me give you an overview of some of my hobbies.
 
-In my free time I engage in a variety of hobbies, most of which suspiciously
-seem to start with the letter 'p'. One of my primary hobbies is programming.
-The largest and most expansive project I've written or worked on is by far my
+I enjoy spending some of my free time programming, and using these side projects
+to learn new concepts or programming languages.
+The largest and most complex project I've worked on is my
 chess engine, [Chrysaora](https://github.com/dylanagreen/chrysaora).
-Chrysaora is written in a programming
-language called Nim, and uses a neural network composed of fully connected
-layers that are trained using reinforcement learning. This means that in theory
-it should get better at playing chess after every game, although it doesn't
-do so very well owing to the patchwork nature of the project. I have not
-updated the project as of late, and would prefer to go back and rewrite it in
-a more flexible language in the future.
+Chrysaora is written in Nim, and uses a neural network composed of fully connected
+layers that are trained using reinforcement learning. I plan to revisit the project
+in the near future and rewrite the project in a more flexible language with better
+support for both machine learning and mathematics, as I have some unique ideas
+I'd like to test.
 
-I formerly used to co-host a variety of podcasts, all of which can
+I formerly served as one of two hosts on a variety of podcasts, all of which can
 be found at [decorativevegetable.com](http://decorativevegetable.com/).
 My cohost and I used to release weekly episodes
 about Doctor Who as well as classic Science Fiction television.
-At one point we would write blog posts on a weekly basis, alternating authorship.
-Go and check out my posts; my current favourite post that I've written
-discusses the third season of Torchwood [from the perspective of First Contact](http://decorativevegetable.com/blog/children-of-earth-and-the-first-contact-archetype/).
+At one point we would write blog posts on a weekly basis about
+various science fiction or adjacent topics.
+My current favourite post that I've written
+discusses the third season of Torchwood [from the perspective of the first contact archetype](http://decorativevegetable.com/blog/children-of-earth-and-the-first-contact-archetype/).
 It's great fun and both of us take pride in the shows. All of the shows are
 currently on hiatus, as my co-host has taken other responsibilities with his
-time and my time is currently dedicated to my research.
+time and my time is currently dedicated to my research. We may return in the future.
 
 If time permits I also engage in some analog photography, which means I shoot
 photos on 35mm film. I use a Canon FtB, and generally shoot whatever film I
@@ -41,7 +40,7 @@ On occasion I will upload some photos to my
 
 Hobbies that do not necessarily have a web home but that I enjoy, and would
 love to discuss with anyone interested include philately (the study and
-collection of stamps) and watching an inordinate amount of movies (
-for more on this check out my [letterboxd account](https://letterboxd.com/StellarStarling/)).
-Recently I've also started to dabble in
-using fountain pens. And that's about it!
+collection of stamps) and watching an inordinate amount of movies (for
+more on this check out my [letterboxd account](https://letterboxd.com/StellarStarling/)).
+I'm also an avid fountain pen user, and have a small collection of pens
+I am proud of.
