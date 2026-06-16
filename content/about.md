@@ -4,6 +4,13 @@ draft = false
 title = 'About Me'
 +++
 
+{{< figure
+  src="/images/mayall.jpg"
+  alt="A photograph of the Mayall Telescope, from December 2019"
+  caption="The Mayall Telescope, Ultramax 400, December 2019"
+  class="lefty"
+>}}
+
 My name is Dylan Green, and I am an Postdoctoral Researcher at
 the Lawrence Berkeley National Laboratory. You can email me at dylangreen [at] lbl [dot] gov.
 This is my personal and professional site, but to nobody's surprise I am
@@ -33,7 +40,7 @@ time and my time is currently dedicated to my research. We may return in the fut
 
 If time permits I also engage in some analog photography, which means I shoot
 photos on 35mm film. I use a Canon FtB, and generally shoot whatever film I
-have available. The photo at the top of the page of the Mayall 4-meter was taken on
+have available. The photo of the Mayall 4-meter on this page was taken on
 Ultramax 400 during my observing shift in December of 2019.
 On occasion I will upload some photos to my
 [flickr account](https://www.flickr.com/photos/185938877@N04/).
