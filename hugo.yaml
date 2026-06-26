@@ -24,7 +24,7 @@ menu:
       weight: 6
       url: "https://orcid.org/0000-0002-0676-3661"
       params:
-        icon: orcid_green
+        icon: orcid
     - name: Search
       weight: 100
       params:
