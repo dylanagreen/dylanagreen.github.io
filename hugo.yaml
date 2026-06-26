@@ -31,6 +31,8 @@ menu:
         type: search
 
 params:
+  navbar:
+    displayLogo: false
   theme:
     default: light
     displayToggle: true
