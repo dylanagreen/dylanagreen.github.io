@@ -61,24 +61,7 @@ in the data processing pipeline.
 I have 5 days of in person observation experience at the Mayall 4-meter telescope, where I did work commissioning the DESI spectrographs. I have since completed an additional 20 days of remote observing on the Mayall 4-meter. I also have observing experience at Lick Observatory as part of the 2020/21 Burbidge Observational Astronomy Workshop.
 
 ## Publications
-1. DESI Collaboration incl. **Green, D.** (May 2026) 'Data Release 1 of the Dark Energy Spectroscopic Instrument' [The Astronomical Journal](https://doi.org/10.3847/1538-3881/ae4c43)
-1. **Green, D.**, Kirkby, D. et al. (October 2025). 'Using Active Learning to Improve Quasar Identification for the DESI Spectra Processing Pipeline.' [Journal of Cosmology and Astroparticle Physic](https://doi.org/10.1088/1475-7516/2025/10/087)
-1. DESI Collaboration incl. **Green, D.** (2025) 'DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints' [arXiv](https://arxiv.org/abs/2503.14738)
-1. DESI Collaboration incl. **Green, D.** (2025) 'DESI DR2 Results I: Baryon Acoustic Oscillations from the Lyman Alpha Forest' [arXiv](https://arxiv.org/abs/2503.14739)
-1. DESI Collaboration incl. **Green, D.** (September 2025) 'DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars' [Journal of Cosmology and Astroparticle Physics](https://doi.org/10.1088/1475-7516/2025/09/008)
-1. DESI Collaboration incl. **Green, D.** (July 2025) 'DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements' [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/028/pdf)
-1. DESI Collaboration incl. **Green, D.** (July 2025) 'DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics' [Journal of Cosmology and Astroparticle Physics](https://doi.org/10.1088/1475-7516/2025/07/017)
-1. DESI Collaboration incl. **Green, D.** (April 2025) 'DESI 2024 III: baryon acoustic oscillations from galaxies and quasars' [Journal of Cosmology and Astroparticle Physics](https://doi.org/10.1088/1475-7516/2025/04/012)
-1. DESI Collaboration incl. **Green, D.** (February 2025) 'DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations' [Journal of Cosmology and Astroparticle Physics](https://dx.doi.org/10.1088/1475-7516/2025/02/021)
-1. DESI Collaboration incl. **Green, D.** (January 2025) 'DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman alpha forest' [Journal of Cosmology and Astroparticle Physics](https://dx.doi.org/10.1088/1475-7516/2025/01/124)
-1. **Green, D.** & Bailey, S. (October 2024). Algorithms for Non-Negative Matrix Factorization on Noisy Data With Negative Values. [IEEE Transactions on Signal Processing](https://doi.org/10.1109/TSP.2024.3474530)
-1. DESI Collaboration incl. **Green, D.** 'The Early Data Release of the Dark Energy Spectroscopic Instrument.' (August 2024) [The Astronomical Journal](https://doi.org/10.3847/1538-3881/ad3217)
-1. DESI Collaboration incl. **Green, D.** 'Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument.' (January 2024). [*The Astronomical Journal, 167, 62*](https://dx.doi.org/10.3847/1538-3881/ad0b08)
-1. Guy, J., Bailey, S., ... **Green, D.** ..., Zou, H. ‘The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument’. (April 2023) [*The Astronomical Journal  165, 144.*](https://doi.org/10.3847/1538-3881/acb212)
-1. DESI Collaboration, incl. **Green, D.** ‘Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument’. (November 2022) [*The Astronomical Journal 164, 207.*](https://doi.org/10.3847/1538-3881/ac882b)
-1. Pat, F., Juneau, S., Böhm, V., ... **Green, D.**, Myers, A. 'Reconstructing and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algorithms.' (November 2022) [arXiv: 2211.11783](https://arxiv.org/abs/2211.11783)
-1. Zuntz, J., Lanusse, F., Malz, A. I., Wright, A. H., Slosar, A., Abolfathi, B., ... **Green, D.** ... & Mao, Y. Y. ‘The LSST-DESC 3x2pt Tomography Optimization Challenge’. (October 2021) [*The Open Journal of Astrophysics 4, 13.*](https://doi.org/10.21105/astro.2108.13418)
-1. Dethe, T., Gill, H., **Green, D.**, Greensweight, A., Gutierrez, L., He, M., Tajima, T., & Yang, K. ‘Causality and dispersion relations’. *American Journal of Physics* 87, no. 4 (April 2019): 279–90. [doi:10.1119/1.5092679.](https://doi.org/10.1119/1.5092679)
+{{< publications >}}
 
 
 ## Presentations

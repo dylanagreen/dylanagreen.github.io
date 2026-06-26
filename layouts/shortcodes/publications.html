@@ -1,0 +1,35 @@
+{{ $mePrefix := "Green, D" }}
+{{ $truncate := 10 }}
+<ol>
+{{ range site.Data.publications }}
+  {{- $authors := .authors -}}
+  {{- $n := len $authors -}}
+  {{- $isFirstAuthor := and (not .collaboration) (strings.HasPrefix (index $authors 0) $mePrefix) -}}
+<li{{ if $isFirstAuthor }} class="first-author"{{ end }}>
+  {{- if .collaboration }}{{ .collaboration }} incl. {{ end -}}
+  {{- if gt $n $truncate -}}
+    {{- $first := index $authors 0 -}}
+    {{- $last := index $authors (sub $n 1) -}}
+    {{- $me := "" -}}
+    {{- range $authors }}{{ if strings.HasPrefix . $mePrefix }}{{ $me = . }}{{ end }}{{ end -}}
+    {{- if strings.HasPrefix $first $mePrefix -}}
+      <strong>{{ $first }}</strong>, ..., {{ $last -}}
+    {{- else if strings.HasPrefix $last $mePrefix -}}
+      {{ $first }}, ..., <strong>{{ $last }}</strong>
+    {{- else if $me -}}
+      {{ $first }}, ..., <strong>{{ $me }}</strong>, ..., {{ $last -}}
+    {{- else -}}
+      {{ $first }}, ..., {{ $last -}}
+    {{- end -}}
+  {{- else -}}
+    {{- range $i, $a := $authors -}}
+      {{- if strings.HasPrefix $a $mePrefix }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end -}}
+      {{- if lt $i (sub $n 1) }}, {{ end -}}
+    {{- end -}}
+  {{- end }}
+  ({{ if .month }}{{ .month }} {{ end }}{{ .year }}).
+  '{{ .title }}.'
+  <a href="{{ .url }}">{{ .venue }}</a>
+</li>
+{{ end }}
+</ol>

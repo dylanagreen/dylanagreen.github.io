@@ -20,6 +20,9 @@ img[src$='#floatright'] {
   max-width: 50%;
 }
 
-.first_author {
-    color: #c97c2e;
+
+li.first-author {
+    border-right: 3px solid #CC79A7;
+    padding-right: 0.5rem;
+    color: #CC79A7;
 }
